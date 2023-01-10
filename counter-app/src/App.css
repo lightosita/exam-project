@@ -1,0 +1,25 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.main {
+  display: flex;
+  place-content: center;
+  place-items: center;
+  margin: 6rem 1.5rem;
+}
+.logo-container {
+  justify-content: center;
+}
+.logo-container img:hover {
+  top: 50%;
+  left: 50%;
+  animation: spin 0.5s linear 1;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
