@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <ul className="logo-container">
         <li>
-          <a href="#">
+          <a href="https://twitter.com/OsitaLight">
             <img
               src="https://img.icons8.com/fluency/96/null/twitter.png"
               alt="twitter"
@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://github.com/lightosita">
             <img
               src="https://img.icons8.com/fluency/96/null/github.png"
               alt="github"
@@ -24,7 +24,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="www.linkedin.com/in/light-osita-734251112/">
             <img
               src="https://img.icons8.com/fluency/96/null/linkedin-circled.png"
               alt="linkedin"
@@ -33,7 +33,7 @@ const Footer = () => {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://babest.hashnode.dev/">
             <img
               src="https://img.icons8.com/color/96/null/hashnode.png"
               alt="hashnode"
