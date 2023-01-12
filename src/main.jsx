@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { HelmetProvider } from "react-helmet-async";
 import { BrowserRouter } from "react-router-dom";
 import App from "./App";
-import Layout from "./components/Layout";
+import Layout from "./components/layout";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(

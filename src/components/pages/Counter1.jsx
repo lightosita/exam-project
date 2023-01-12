@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import useCounter from "../hooks/useCounter";
+import useCounter from "../../hooks/useCounter";
 
 const Counter = () => {
   const {

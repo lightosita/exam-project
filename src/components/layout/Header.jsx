@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <h2>
         <a href="/">
-        Osita<small>Light.</small>
+          Osita<small>Light.</small>
         </a>
       </h2>
       <nav>
@@ -15,15 +15,15 @@ const Header = () => {
             <NavLink to="/">Home</NavLink>
           </li>
           <li>
-            <NavLink to="counter">useReducer counter</NavLink>
+            <NavLink to="counter1">Counter1</NavLink>
           </li>
           <li>
-            <NavLink to="counter2">Counter</NavLink>
+            <NavLink to="counter2">Counter2</NavLink>
           </li>
           <li>
-            <NavLink to="errorboundary">Error Boundary</NavLink>
+            <NavLink to="bomb">Bomb</NavLink>
           </li>
-          
+
           <li>
             <NavLink to="*">404</NavLink>
           </li>
